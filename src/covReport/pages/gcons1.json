@@ -1,0 +1,7 @@
+var g_db_data = [
+{dummy:0},
+{name:'input_coverage',f:1,type:6,id:282,tb:'652',h:'232',m:'420',hp:'35.58%',cov:['59.13%','Y'],g:'100.00%',gp:['59.13%','Y'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/alu_top_sv_unit/alu_driver',parent:'280'},
+{name:'output_coverage',f:1,type:6,id:326,tb:'12',h:'11',m:'1',hp:'91.66%',cov:['91.66%','G'],g:'100.00%',gp:['91.66%','G'],opts:[[],['merge_instance','auto(true)']],hdlPath:'/alu_top_sv_unit/alu_monitor',parent:'324'},
+{name:'input_coverage',f:1,type:6,id:528,tb:'652',h:'232',m:'420',hp:'35.58%',cov:['59.13%','Y'],g:'100.00%',gp:['59.13%','Y'],opts:[[],['merge_instance','true']],hdlPath:'work.alu_top_sv_unit::alu_driver',parent:'526'},
+{name:'output_coverage',f:1,type:6,id:572,tb:'12',h:'11',m:'1',hp:'91.66%',cov:['91.66%','G'],g:'100.00%',gp:['91.66%','G'],opts:[[],['merge_instance','true']],hdlPath:'work.alu_top_sv_unit::alu_monitor',parent:'570'}];
+processConsCovergroupsData(g_db_data);
